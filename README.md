@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tlejbik
-- 👀 I’m interested in JavaScript, Python and Ruby!
-- 🌱 I’m currently learning JavaScript and Ruby
+- 👀 I’m interested in Python and Ruby!
+- 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
